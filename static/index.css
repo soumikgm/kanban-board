@@ -1,0 +1,19 @@
+body {
+  padding-top: 50px;
+}
+
+.carousel-inner img {
+    width: 100%; /* Set width to 100% */
+    height: inherit;
+    margin: auto;
+}
+
+.intro {
+  padding: 40px 15px;
+  text-align: center;
+  color: #000000;
+}
+
+.intro-text {
+  font-size: 20pt;
+}

@@ -1,0 +1,57 @@
+body {
+  padding-top: 50px;
+}
+
+.card-todo {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 25px;
+    margin: 7px 7px;
+    padding: 7px;
+    width: 295px;
+    height: 200px;
+    color: white;
+    background: #dd7777;
+    cursor: move;
+    text-align: left;
+    font: 20px Georgia, sans-serif;
+    box-shadow: 2px 2px 2px #000;
+}
+
+.card-doing {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 25px;
+    margin: 7px 7px;
+    padding: 7px;
+    width: 295px;
+    height: 200px;
+    color: black;
+    background: #dbd564;
+    cursor: move;
+    text-align: left;
+    font: 20px Georgia, sans-serif;
+    box-shadow: 2px 2px 2px #000;
+}
+
+.card-done {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 25px;
+    margin: 7px 7px;
+    padding: 7px;
+    width: 295px;
+    height: 200px;
+    color: white;
+    background: #8dc683;
+    cursor: move;
+    text-align: left;
+    font: 20px Georgia, sans-serif;
+    box-shadow: 2px 2px 2px #000;
+}
+
+
+.webfont-heading{
+  text-align: center;
+  font: 40px Georgia, sans-serif;
+}

@@ -1,6 +1,13 @@
 body {
-  padding-top: 50px;
+    padding-top: 50px;
+    height: 100%;
 }
+
+html{height:100%;}
+
+.carousel,.item,.active{height:100%;}
+
+.carousel-inner{height:100%;}
 
 .carousel-inner img {
     width: 100%; /* Set width to 100% */
